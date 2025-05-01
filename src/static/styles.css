@@ -142,3 +142,19 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participants-container {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.participant-badge {
+  background-color: #e3f2fd;
+  color: #1a237e;
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-size: 14px;
+  border: 1px solid #90caf9;
+}
